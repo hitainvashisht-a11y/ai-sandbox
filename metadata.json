@@ -1,0 +1,6 @@
+{
+  "name": "Recruitment Sandbox",
+  "description": "Transform raw role notes into polished LinkedIn Job Descriptions and targeted, 10-question behavioral interview guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
